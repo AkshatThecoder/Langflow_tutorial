@@ -54,26 +54,6 @@ streamlit run main.py
 
 ---
 
-## 🔑 Important Note on Keys
-
-- **`secret_key.py`** contains sensitive keys (OpenAI, Gemini, YouTube).
-- Do **NOT push this file to a public repository** — it should be added to `.gitignore`.
-
----
-
-## 🌐 Example Flow URL (Replace as needed)
-
-Your flow is called `Customer` and lives inside:
-```
-LANGFLOW_ID = c6e6ac48-d075-461e-8fe3-d8820b2db07e
-FLOW_ID = 5d746e92-cfb7-4745-8d18-7158debba829
-```
-The base API URL:
-```
-https://api.langflow.astra.datastax.com
-```
-
----
 
 ## ✅ Example Run
 
